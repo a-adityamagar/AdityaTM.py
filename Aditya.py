@@ -29,7 +29,7 @@ print(string)
 
 #5. ⁠WAP that asks 10 user with their name and store them in a list. Print the name of only those users whose name starts with ‘a’ or ‘A’
 name=[]
-for i in range(5):
+for i in range(10):
     x=input("Enter your name")
     name.append(x)
 for i in name:
